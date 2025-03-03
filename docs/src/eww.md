@@ -15,8 +15,9 @@ Configured in yuck and themed using CSS, it is easy to customize and provides al
 * rustc
 * cargo
 
-Rather than with your system package manager,
+As for distributions that are not bleeding edge,
 I **strongly** recommend installing it using  [rustup](https://rustup.rs/).
+Otherwise, do what the distribution told you to use.
 
 Additionally, eww requires some dynamic libraries to be available on your system.
 The exact names of the packages that provide these may differ depending on your distribution.
